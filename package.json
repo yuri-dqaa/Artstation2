@@ -1,0 +1,24 @@
+{
+  "name": "artstation2",
+  "version": "1.0.0",
+  "description": "A copycat of the www.Artstation.com website made for the purpose of learning and self-teaching a full-stack platform development.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fullstack",
+    "javascript",
+    "nodejs",
+    "php",
+    "wordpress"
+  ],
+  "author": "Yuri David",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "joi": "^17.6.0"
+  },
+  "type": "module"
+}
